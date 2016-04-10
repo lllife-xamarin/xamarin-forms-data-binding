@@ -24,7 +24,7 @@
 </ContentPage>
 ```
 
-- DatabindingExample.xmal.cs
+- DatabindingExample.xaml.cs
 
 ```csharp
 using System;
